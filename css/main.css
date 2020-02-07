@@ -1,0 +1,30 @@
+/* Text Elements */
+
+h1.heading-1 {
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h1 span.heading-text-1 {
+  color: #df8827;
+  font-weight: 700;
+}
+
+/* Layout Elements */
+
+body.body-1 {
+  background-color: #000;
+}
+
+.container-grid.main-con {
+  min-height: 500px;
+  text-align: center;
+}
+
+.container-grid.header-con {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgba(0, 0, 0, .4);
+}
